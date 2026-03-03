@@ -1,0 +1,19 @@
+.freeze-panel {
+    background-color: #4b4d3c;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    box-shadow: 0px 10px 30px rgba(75, 77, 60, 0.35);
+    z-index: 1000;
+
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+}
